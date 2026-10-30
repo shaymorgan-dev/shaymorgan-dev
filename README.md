@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=shaymorgan-dev&layout=pie&langs_count=4&theme=algolia)](https://github-stats-extended.vercel.app/api/top-langs?username=shaymorgan-dev&layout=pie&langs_count=4&theme=algolia)
 <!--
 **shaymorgan-dev/shaymorgan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
