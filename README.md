@@ -1,5 +1,11 @@
-## Hi there 👋
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=shaymorgan-dev&layout=pie&langs_count=4&theme=algolia)](https://github-stats-extended.vercel.app/api/top-langs?username=shaymorgan-dev&layout=pie&langs_count=4&theme=algolia)
+# Hi there! 👋
+## About me
+My name is Shay Morgan, and I am 18 years old. I am a second-year student at the Foxford IT College. I study Python, JS, databases, and 3D modeling (using Blender and Blockbench). Within programming, I am most interested in front-end development, game development, and mobile app development.
+
+## Tech Stack
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 <!--
 **shaymorgan-dev/shaymorgan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
