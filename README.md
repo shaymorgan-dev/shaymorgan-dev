@@ -22,9 +22,12 @@
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=shaymorgan-dev&langs_count=6&theme=algolia)](https://github-stats-extended.vercel.app/api/top-langs?username=shaymorgan-dev&langs_count=6&theme=algolia)
 
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=shaymorgan-dev&theme=tokyonight)
 ---
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+<a href="https://t.me/ShayMorgann">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+</a>
+
