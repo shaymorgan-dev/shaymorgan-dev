@@ -1,22 +1,30 @@
-# Hi there! 👋
-## About me
-My name is Shay Morgan, and I am 18 years old. I am a second-year student at the Foxford IT College. I study Python, JS, databases, and 3D modeling (using Blender and Blockbench). Within programming, I am most interested in front-end development, game development, and mobile app development.
+# Hi there, I'm Shay Morgan 👋
 
-## Tech Stack
+## About Me
+- 🎓 I'm a second-year student at the Foxford IT College
+- 🌱 I'm currently learning **Python, JS, databases, and 3D modeling (using Blender and Blockbench)**
+- 💼 I'm looking for internship/job opportunities
+- 🌍 Based in Russia
+- ⚡ Facts about me: Within programming, I am most interested in front-end development, game development, and mobile app development. I dream of moving abroad. And I am writing my book
+
+---
+
+## 🛠️ Tech Stack
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-<!--
-**shaymorgan-dev/shaymorgan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+---
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=shaymorgan-dev&rank_icon=github&show_icons=true&include_all_commits=true&theme=algolia)](https://github-stats-extended.vercel.app/api?username=shaymorgan-dev&rank_icon=github&show_icons=true&include_all_commits=true&theme=algolia)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=shaymorgan-dev&langs_count=6&theme=algolia)](https://github-stats-extended.vercel.app/api/top-langs?username=shaymorgan-dev&langs_count=6&theme=algolia)
+
+---
+
+## 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
