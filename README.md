@@ -1,4 +1,4 @@
-# Hi there, I'm Shay Morgan 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Hi+There%2C+I%27m+Shay+Morgan!;Welcome+to+my+GITHUB+Profile!&size=28)](https://git.io/typing-svg)
 
 ## About Me
 - 🎓 I'm a second-year student at the Foxford IT College
