@@ -18,11 +18,10 @@
 ---
 
 ## 📊 GitHub Stats
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=shaymorgan-dev&rank_icon=github&show_icons=true&include_all_commits=true&theme=algolia)](https://github-stats-extended.vercel.app/api?username=shaymorgan-dev&rank_icon=github&show_icons=true&include_all_commits=true&theme=algolia)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=shaymorgan-dev&rank_icon=github&include_all_commits=true&theme=algolia)](https://github-stats-extended.vercel.app/api?username=shaymorgan-dev&rank_icon=github&include_all_commits=true&theme=algolia)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=shaymorgan-dev&langs_count=6&theme=algolia)](https://github-stats-extended.vercel.app/api/top-langs?username=shaymorgan-dev&langs_count=6&theme=algolia)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=shaymorgan-dev&langs_count=4&theme=algolia)](https://github-stats-extended.vercel.app/api/top-langs?username=shaymorgan-dev&langs_count=4&theme=algolia)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=shaymorgan-dev&theme=tokyonight)
 ---
 
 ## 🔗 Connect With Me
