@@ -22,8 +22,6 @@
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=shaymorgan-dev&langs_count=4&theme=algolia)](https://github-stats-extended.vercel.app/api/top-langs?username=shaymorgan-dev&langs_count=4&theme=algolia)
 
----
-
 ## 🔗 Connect With Me
 
 <a href="https://t.me/ShayMorgann">
