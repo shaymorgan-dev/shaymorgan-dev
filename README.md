@@ -5,7 +5,7 @@
 - 🌱 I'm currently learning **Python, JS, and 3D modeling (using Blender and Blockbench)**
 - 💼 I'm looking for internship/job opportunities
 - 🌍 Based in Russia
-- ⚡ Facts about me: Within programming, I am most interested in front-end development, game development, and mobile app development. I dream of moving abroad. And I am writing my book
+- ⚡ Facts about me: Within IT, I am most interested in front-end development, game development, and mobile app development. I dream of moving abroad. And I am writing my book
 
 ---
 
