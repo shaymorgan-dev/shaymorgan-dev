@@ -29,5 +29,6 @@
   <img src="https://github-stats-extended.vercel.app/api?username=shaymorgan-dev&rank_icon=github&show_icons=true&include_all_commits=true&theme=algolia" alt="Top Languages" />
 </p>
 
+## Other
 <img width="310" alt="deloitte" src="https://github.com/user-attachments/assets/f47b8241-5fef-409c-bc7f-4bb9018e9161" />
 
