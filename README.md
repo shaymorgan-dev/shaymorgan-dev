@@ -24,7 +24,10 @@
 </a>
 
 ## 📊 GitHub Stats
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=shaymorgan-dev&rank_icon=github&include_all_commits=true&theme=algolia)](https://github-stats-extended.vercel.app/api?username=shaymorgan-dev&rank_icon=github&include_all_commits=true&theme=algolia)
+<p align="left">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=shaymorgan-dev&langs_count=6&theme=algolia" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=shaymorgan-dev&rank_icon=github&show_icons=true&include_all_commits=true&theme=algolia" alt="Top Languages" />
+</p>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=shaymorgan-dev&langs_count=10&theme=algolia)](https://github-stats-extended.vercel.app/api/top-langs?username=shaymorgan-dev&langs_count=10&theme=algolia)
+<img width="310" alt="deloitte" src="https://github.com/user-attachments/assets/f47b8241-5fef-409c-bc7f-4bb9018e9161" />
 
