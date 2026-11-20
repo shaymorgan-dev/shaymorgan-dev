@@ -31,4 +31,6 @@
 
 ## Other
 <img width="310" alt="deloitte" src="https://github.com/user-attachments/assets/f47b8241-5fef-409c-bc7f-4bb9018e9161" />
+<img width="310" alt="2026-11-20_20-20-33" src="https://github.com/user-attachments/assets/72c9e33a-32ce-48a4-941d-434899ce9e31" />
+
 
